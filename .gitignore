@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+tmp/
 .eggs/
 lib/
 lib64/
@@ -21,6 +22,7 @@ sdist/
 var/
 wheels/
 pip-wheel-metadata/
+pretrained_models/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
